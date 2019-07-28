@@ -13,7 +13,7 @@ export LC_TIME=en_US.UTF-8
 USERNAME=Damien415
 
 # Name of the branch containing the Hugo source files.
-SOURCE=hugo
+SOURCE=sources
 
 # The commit message.
 MESSAGE="Site rebuild $(date)"
