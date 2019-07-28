@@ -1,5 +1,6 @@
+public
+resources
+*.Rproj
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-*Rproj
+packrat/lib*/
+.Rprofile
